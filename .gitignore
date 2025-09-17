@@ -1,14 +1,7 @@
-﻿# python
+﻿# python venvs
+.venv/
+venv/
 __pycache__/
 *.pyc
 .env
-venv/
 .env.local
-
-# large stuff
-node_modules/
-frontend/
-*.log
-*.sqlite3
-models/*.joblib
-models/*.pkl
